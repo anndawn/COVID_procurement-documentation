@@ -1,0 +1,590 @@
+Original_name,Cleaned_name, filter
+Accounting standards board,Accounting standards board,TRUE
+Airports company of south africa limited,Airports company of south africa limited,TRUE
+Airports company south africa soc limited,Airports company of south africa limited,FALSE
+All wcg departments,All wcg departments,TRUE
+Amathole district municipality,Amathole district municipality,TRUE
+Amazwi south african museum of literature,Amazwi south african museum of literature,TRUE
+Armscor soc ltd,Armaments corporation of south africa,FALSE
+Artscape,Artscape,TRUE
+Beaufort west municipality,Beaufort west municipality,TRUE
+Bela-bela local municipality,Bela-bela local municipality,TRUE
+Bergrivier municipality,Bergrivier municipality,TRUE
+Bitou municipality,Bitou municipality,TRUE
+Blue crane route local municipality,Blue crane route local municipality,TRUE
+Boxing south africa,Boxing south africa,TRUE
+Brand south africa,Brand south africa,TRUE
+Breede valley municipality,Breede valley municipality,TRUE
+Broadband infraco soc,Broadband infraco soc,TRUE
+Broadband infrastructure company (pty) ltd,Broadband infrastructure company (pty) ltd,TRUE
+Buffalo city metropolitan development agency,Buffalo city metropolitan development agency,TRUE
+Cape agency for sustainable integrated development in rural areas (casidra),Cape agency for sustainable integrated development in rural areas (casidra),TRUE
+Cape agulhas municipality,Cape agulhas municipality,TRUE
+Cape town international convention centre,Cape town international convention centre,TRUE
+Cape town stadium,Cape town stadium,TRUE
+Cape winelands district municipality,Cape winelands district municipality,TRUE
+Castle control board,Castle control board,TRUE
+Cederberg municipality,Cederberg municipality,TRUE
+Cef (pty) ltd,Cef (pty) ltd,TRUE
+Central karoo district municipality,Central karoo district municipality,TRUE
+Chris hani district municipality,Chris hani district municipality,TRUE
+City of cape town,City of cape town,TRUE
+City of cape town municipality,City of cape town,FALSE
+City council of johannesburg,City of johannesburg,FALSE
+City of johannesburg - core,City of johannesburg,FALSE
+Civilian secretariat for police,Civilian secretariat for police,TRUE
+Coega development cooperation,Coega development corporation,FALSE
+Coega development coperation,Coega development corporation,FALSE
+Coega development corporation,Coega development corporation,TRUE
+Coghsta,Coghsta,TRUE
+Collins chabane local municipality,Collins chabane local municipality,TRUE
+Communications,Communications,TRUE
+Community schemes ombud services,Community schemes ombud services,TRUE
+Companies and intellectual property commission,Companies and intellectual property commission,TRUE
+Companies tribunal,Companies tribunal,TRUE
+Competition tribunal,Competition tribunal,TRUE
+Construction education and training authority,Construction education and training authority,TRUE
+Contruction industry development board (cidb),Contruction industry development board (cidb),TRUE
+Council for geoscience,Council for geosciences,FALSE
+Council for geosciences,Council for geosciences,TRUE
+Council for medical schemes,Council for medical schemes,TRUE
+Council for scientific and industrial research (csir),Council for scientific and industrial research (csir),TRUE
+Council on higher education,Council on higher education,TRUE
+Cross border road transport agency,Cross border road transport agency,TRUE
+Cross-border road transport agency,Cross border road transport agency,FALSE
+Cross-border road transport agency (c-brta),Cross border road transport agency,FALSE
+Culture arts tourism hospitality and sports education and training authority,Culture arts tourism hospitality and sports education and training authority,TRUE
+Dannhauser local municipality,Dannhauser local municipality,TRUE
+Dardlea,Dardlea,TRUE
+Dbsa,Dbsa,TRUE
+Dedt,Dedt,TRUE
+Defence,Defence,TRUE
+Denel (pty) ltd,Denel,FALSE
+Denel soc ltd,Denel,FALSE
+Denel soc ltd (april 2021),Denel,FALSE
+Denel soc ltd (august 2021),Denel,FALSE
+Denel soc ltd (july 2021),Denel,FALSE
+Denel soc ltd (september 2021),Denel,FALSE
+"Department of agriculture, rural development , land and environmental affairs","Department of agriculture, rural development, land and environmental affairs",FALSE
+Cogta,Department of co-operative governance and traditional affairs,FALSE
+Department of co-operative governance and traditional affairs,Department of co-operative governance and traditional affairs,TRUE
+Department of community safety and transport management,Department of community safety and transport management,TRUE
+Correctional services,Department of correctional services,FALSE
+Department of correctional services,Department of correctional services,TRUE
+"Department of culture, sport and recreation","Department of culture, sport and recreation",TRUE
+Economic development,Department of economic development,FALSE
+Department of economic development; tourism & environmental affairs,"Department of economic development, tourism & environmental affairs",FALSE
+Basic education,Basic education,TRUE
+Departmen of education,Department of education,FALSE
+Department of education,Department of education,TRUE
+Education,Education,TRUE
+Department of employment and labour,Department of employment and labour,TRUE
+"Department of environmental affairs, forestry and fisheries","Department of environmental affairs, forestry and fisheries",TRUE
+Environmental affairs,Environmental affairs,FALSE
+National department of health,Department of health,FALSE
+Health,Department of health,FALSE
+Department of human settlements,Department of human settlements,TRUE
+Department of human sttlements,Department of human settlements,FALSE
+National department of human settlements,Department of human settlements,FALSE
+"Department of planning, monitoring & evaluation (dpme)","Department of planning, monitoring & evaluation (dpme)",TRUE
+Planning monitoring and evaluation,"Department of planning, monitoring & evaluation (dpme)",FALSE
+Public enterprises,Department of public enterprises,FALSE
+Department of public enterprises,Department of public enterprises,TRUE
+Public service & administration,Public service & administration,TRUE
+Science & technology,Science & technology,TRUE
+Department of small business development,Department of small business development,TRUE
+Department of social development,Department of social development,TRUE
+Depertment of social development,Department of social development,FALSE
+Social development,Department of social development,FALSE
+South african tourism,Department of tourism,FALSE
+Tourism,Department of tourism,FALSE
+Department of water and sanitation,Department of water and sanitation,TRUE
+Water and sanitation,Department of water and sanitation,FALSE
+"Department of women, youth and persons with disabilities","Department of women, youth and persons with disabilities",TRUE
+National arts council,National arts council,TRUE
+National arts council of south africa,National arts council,FALSE
+National consumer tribunal,National consumer tribunal,TRUE
+National development agency,National development agency,TRUE
+National energy regulator of south africa,National energy regulator of south africa,TRUE
+National film and video foundation of south africa,National film and video foundation of south africa,TRUE
+National gambling board,National gambling board,TRUE
+National gambling board of south africa,National gambling board,FALSE
+National health laboratory service,National health laboratory service,TRUE
+National heritage council,National heritage council,TRUE
+National home builders registration council,National home builders registration council,TRUE
+National library of south africa,National library of south africa,TRUE
+National librray of south africa,National library of south africa,FALSE
+National metrology institute of south africa,National metrology institute of south africa,TRUE
+National museum bloemfontein,National museum bloemfontein,TRUE
+National nuclear regulator,National nuclear regulator,TRUE
+National prosecuting authority,National prosecuting authority,TRUE
+National prosecuting authority (npa),National prosecuting authority,FALSE
+National research foundation,National research foundation,TRUE
+National school of government,National school of government,TRUE
+National treasury,National treasury,TRUE
+National youth development agency,National youth development agency,TRUE
+Die afrikaanse taal museum,Die afrikaanse taal museum,TRUE
+Dihlabeng local municipality,Dihlabeng local municipality,TRUE
+Dipaleseng local municipality,Dipaleseng local municipality,TRUE
+Ditsong museums of south africa,Ditsong museums of south africa,TRUE
+Dr js moroka local municipality,Dr js moroka local municipality,TRUE
+Dr pixley ka isaka seme local municipality,Dr pixley ka isaka seme local municipality,TRUE
+Drakenstein municipality,Drakenstein municipality,TRUE
+Driving license card account,Driving license card account,TRUE
+Dube tradeport,Dube tradeport,TRUE
+East london idz,East london idz,TRUE
+Eastern cape - eastern cape arts council,Eastern cape - arts council,FALSE
+Eastern cape - eastern cape development corporation,Eastern cape - development corporation,FALSE
+Eastern cape - east london industrial development zone corporation,Eastern cape - east london industrial development zone corporation,TRUE
+Eastern cape - economic development & environmental affairs,Eastern cape - economic development & environmental affairs,TRUE
+Eastern cape - education,Eastern cape - education,TRUE
+Eastern cape department of education,Eastern cape - education,FALSE
+Eastern cape - eastern cape gambling and betting board,Eastern cape - gambling and betting board,FALSE
+Eastern cape gambling board,Eastern cape - gambling and betting board,FALSE
+Eastern cape department of health,Eastern cape - health,FALSE
+Eastern cape - department of human settlements,Eastern cape - human settlements,FALSE
+Eastern cape - human settlements,Eastern cape - human settlements,TRUE
+Eastern cape - legislature,Eastern cape - legislature,TRUE
+Eastern cape provincial legislature,Eastern cape - provincial legislature,FALSE
+Eastern cape - eastern cape liquor board,Eastern cape - liquor board,FALSE
+Eastern cape liquor board,Eastern cape - liquor board,FALSE
+Eastern cape - local government and traditional affairs,Eastern cape - local government and traditional affairs,FALSE
+Eastern cape department of cooperative governance and traditional affairs,Eastern cape - cooperative governance and traditional affairs,FALSE
+Eastern cape - mayibuye transport corporation,Eastern cape - mayibuye transport corporation,TRUE
+Eastern cape - officer of the premier,Eastern cape - officer of the premier,TRUE
+Eastern cape - eastern cape parks and tourism agency,Eastern cape - parks and tourism agency,FALSE
+Eastern cape - provincial treasury,Eastern cape - provincial treasury,TRUE
+Eastern cape - roads and public works,Eastern cape - public works,FALSE
+Eastern cape - roads and public works & infrastructure,Eastern cape - public works,FALSE
+Eastern cape department of public works & infrastructure,Eastern cape - public works,FALSE
+Eastern cape public works,Eastern cape - public works,FALSE
+Eastern cape rural development agency,Eastern cape - rural development agency,FALSE
+Eastern cape - rural development and agrarian reform,Eastern cape - rural development and agrarian reform,TRUE
+Eastern cape - safety and liaison,Eastern cape - safety and liaison,TRUE
+Eastern cape - social development and special programmes,Eastern cape - social development and special programmes,TRUE
+Eastern cape - eastern cape socio-economic consultative council,Eastern cape - socio-economic consultative council,FALSE
+Eastern cape - socio economic consultative council,Eastern cape - socio-economic consultative council,FALSE
+Eastern cape - south african social security agency,Eastern cape - south african social security agency,TRUE
+Sassa eastern cape,Eastern cape - south african social security agency,FALSE
+Sassa ec region,Eastern cape - south african social security agency,FALSE
+Eastern cape - sport recreation arts and culture,Eastern cape - sport recreation arts and culture,TRUE
+Eastern cape - transport,Eastern cape - transport,TRUE
+Education training and development practices seta,Education training and development practices seta,TRUE
+Etdp seta,Education training and development practices seta,FALSE
+Electoral commission,Electoral commission (iec),FALSE
+Electoral commission (iec),Electoral commission (iec),TRUE
+The electoral commission,Electoral commission (iec),FALSE
+Elias motsoaledi local municipality,Elias motsoaledi local municipality,TRUE
+Elundini local municipality,Elundini local municipality,TRUE
+Emakhazeni local municipality,Emakhazeni local municipality,TRUE
+Emalahleni local municipality,Emalahleni local municipality,TRUE
+Emfuleni local municipality,Emfuleni local municipality,TRUE
+Employment and labour,Department of employment and labour,FALSE
+Engcobo local municipality,Engcobo local municipality,TRUE
+Enoch mgijima local municipality,Enoch mgijima local municipality,TRUE
+Ephraim mogale local municipality,Ephraim mogale local municipality,TRUE
+Eskom koeberg nuclear power station,Eskom koeberg nuclear power station,TRUE
+Estate agency affairs board,Estate agency affairs board,TRUE
+Ethekwini metropolitan municipality,Ethekwini municipality,FALSE
+Ethekwini municipality,Ethekwini municipality,TRUE
+Export credit insurance corporation of south africa limited,Export credit insurance corporation of south africa limited,TRUE
+Fais ombud,Fais ombud,TRUE
+Fetakgomo tubatse local municipality,Fetakgomo tubatse local municipality,TRUE
+Fezile dabi district municipality,Fezile dabi district municipality,TRUE
+Film and publication board,Film and publication board,TRUE
+Financial and accounting services seta,Financial and accounting services seta,TRUE
+Financial intelligence centre,Financial intelligence centre,TRUE
+Food and beverages manufacturing industry,Food and beverages manufacturing industry,TRUE
+Performing arts center of the free state,Free state - Performing arts center,FALSE
+Performing arts centre of the free state,Free state - Performing arts center,FALSE
+Performing arts council of the free state,Free state - Performing arts center,FALSE
+Free state - public works,Free state - public works,TRUE
+Freedom park,Freedom park,TRUE
+Freedom park trust,Freedom park,FALSE
+Gammatec ndt supplies soc ltd,Gammatec ndt supplies soc ltd,TRUE
+Garden route district local municipality,Garden route district local municipality,TRUE
+Gateway airports authority limited,Gateway airports authority limited,TRUE
+Gauteng - agriculture and rural development,Gauteng - agriculture and rural development,TRUE
+Gauteng - co-operative governance & traditional affairs (cogta),Gauteng - co-operative governance & traditional affairs (cogta),TRUE
+Gauteng - community safety,Gauteng - community safety,TRUE
+Gauteng department of community safety,Gauteng - community safety,FALSE
+Gauteng - cradle of humankind world heritage site,Gauteng - cradle of humankind world heritage site,TRUE
+Gauteng - gauteng department of e-government,Gauteng - e-government,FALSE
+Gauteng - economic development,Gauteng - economic development,TRUE
+Gauteng - gauteng economic development agency,Gauteng - economic development,FALSE
+Gauteng - education,Gauteng - education,TRUE
+Gauteng - film commission,Gauteng - film commission,TRUE
+Gauteng film commission,Gauteng - film commission,FALSE
+Gauteng g-fleet,Gauteng - g-fleet,FALSE
+Gauteng - gauteng gambling board,Gauteng - gambling board,FALSE
+Gauteng - gautrain management agency,Gauteng - gautrain management agency,TRUE
+Gauteng growth and development agency (ggda),Gauteng - growth and development agency (ggda),FALSE
+Gauteng - health,Gauteng - health,TRUE
+Gauteng department of health,Gauteng - health,FALSE
+Gauteng - gauteng department of human settlements,Gauteng - human settlements,FALSE
+Gauteng department of human settlements,Gauteng - human settlements,FALSE
+Gauteng - infrastructure development,Gauteng - infrastructure development,TRUE
+Gauteng - gauteng infrastructure funding agency,Gauteng - infrastructure funding agency,FALSE
+Gauteng - officer of the premier,Gauteng - officer of the premier,TRUE
+Gauteng partnership fund,Gauteng - partnership fund,FALSE
+Gauteng - provincial treasury,Gauteng - provincial treasury,TRUE
+Gauteng provincial treasury,Gauteng - provincial treasury,FALSE
+Gauteng department of roads and transport,Gauteng - roads and transport,FALSE
+Gauteng - social development,Gauteng - social development,TRUE
+Gauteng department of social development,Gauteng - social development,FALSE
+Gauteng - sport arts culture and recreation,Gauteng - sport arts culture and recreation,TRUE
+Gauteng - gauteng tourism authority,Gauteng - tourism authority,FALSE
+George municipality,George municipality,TRUE
+Gert sibande district municipality,Gert sibande district municipality,TRUE
+Government communications & information system,Government communications & information system,TRUE
+Government printing works,Government printing works,TRUE
+Great kei local municipality,Great kei local municipality,TRUE
+Hessequa,Hessequa municipality,FALSE
+Hessequa municipality,Hessequa municipality,TRUE
+Higher education & training,Higher education and training,FALSE
+Higher education and training,Higher education and training,TRUE
+Home affairs,Home affairs,TRUE
+Human settlements,Human settlements,TRUE
+Hwseta,Hwseta,TRUE
+Ilembe district municipality - kzn,Ilembe district municipality - kzn,TRUE
+Ingquza hill local municipality,Ingquza hill local municipality,TRUE
+Inkomati catchment management agency,Inkomati catchment management agency,TRUE
+Inseta,Inseta,TRUE
+Interfront,Interfront,TRUE
+International relations & cooperation,International relations & cooperation,TRUE
+Intsika yethu local  municipality,Intsika yethu local municipality,FALSE
+Intsika yethu local municipality,Intsika yethu local municipality,TRUE
+Inxuba yethemba local  municipality,Inxuba yethemba local  municipality,TRUE
+Inxuba yethemba local municipality,Inxuba yethemba local municipality,TRUE
+Ithala development finance corporation limited,Ithala development finance corporation limited,TRUE
+Iucma,Iucma,TRUE
+Iziko museums of cape town,Iziko museums of cape town,TRUE
+Joe gqabi district municipality,Joe gqabi district municipality,TRUE
+Joe morolong local municipality,Joe morolong local municipality,TRUE
+Johanesburg roads agency,Johanesburg roads agency,TRUE
+Johannesburg metropolitan bus  services (soc) ltd,Johannesburg metropolitan bus services (soc) ltd,FALSE
+Johannesburg social housing company (joshco),Johannesburg social housing company (joshco),TRUE
+John taolo gaetsewe district municipality,John taolo gaetsewe district municipality,TRUE
+Justice & constitutional development,Justice & constitutional development,TRUE
+Kannaland municipality,Kannaland municipality,TRUE
+Karoo hoogland local municipality,Karoo hoogland local municipality,TRUE
+King sabata dalindyebo local municipality,King sabata dalindyebo local municipality,TRUE
+Knysna municipality,Knysna municipality,TRUE
+Kopanong local municipality,Kopanong local municipality,TRUE
+Kouga local municipality,Kouga local municipality,TRUE
+Koukamma municipality,Koukamma municipality,TRUE
+Kwa-zulu natal - amafa akwazulu natali,Kwazulu natal - amafa akwazulu natali,FALSE
+Kwa-zulu natal - ezemvelo kwazulu-natal wildlife,Kwazulu natal - ezemvelo kwazulu-natal wildlife,FALSE
+Kwa-zulu natal - ithala development finance corporation,Kwazulu natal - ithala development finance corporation,FALSE
+Kwa-zulu natal - natal sharks board,Kwazulu natal - sharks board,FALSE
+Kwazulu-natal sharks board,Kwazulu natal - sharks board,FALSE
+Kwa-zulu natal - agri-business development agency,Kwazulu natal - agri-business development agency,FALSE
+Kwazulu natal - agriculture environmental affairs and rural development,Kwazulu natal - agriculture environmental affairs and rural development,TRUE
+Kwazulu natal - arts and culture,Kwazulu natal - arts and culture,TRUE
+Kwazulu natal department of arts and culture,Kwazulu natal - arts and culture,FALSE
+Kwazulu natal - community safety and liaison,Kwazulu natal - community safety and liaison,TRUE
+Kwazulu natal community safety and liaison,Kwazulu natal - community safety and liaison,FALSE
+Kwazulu natal - cooperative governance and traditional affairs,Kwazulu natal - cooperative governance and traditional affairs,TRUE
+Kwazulu natal - economic development and tourism,Kwazulu natal - economic development and tourism,TRUE
+Kwazulu natal - education,Kwazulu natal - education,TRUE
+Kwazulu-natal film commission,Kwazulu natal - film commission,FALSE
+Kwa-zulu natal - kwazulu-natal gaming and betting board,Kwazulu natal - gaming and betting board,FALSE
+Kzn growth fund trust,Kwazulu natal - growth fund trust,FALSE
+Kwazulu natal - health,Kwazulu natal - health,TRUE
+Kwazulu natal - human settlements,Kwazulu natal - human settlements,TRUE
+Kzn human settlements,Kwazulu natal - human settlements,FALSE
+Kwa zulu natal liqour authority,Kwazulu natal - liqour authority,FALSE
+Kwazulu-natal liquor authority,Kwazulu natal - liqour authority,FALSE
+Kwazulu natal - office of the premier,Kwazulu natal - office of the premier,TRUE
+Kwazulu natal - provincial legislature,Kwazulu natal - provincial legislature,TRUE
+Kwazulu natal - provincial treasury,Kwazulu natal - provincial treasury,TRUE
+Kwazulu natal - public works (head office),Kwazulu natal - public works (head office),TRUE
+Kwazulu natal - social development,Kwazulu natal - social development,TRUE
+Kwazulu-natal - social development,Kwazulu natal - social development,FALSE
+Kzn department of social development,Kwazulu natal - social development,FALSE
+Sassa kzn region,Kwazulu natal - south african social security agency,FALSE
+Kwazulu natal - sport and recreation,Kwazulu natal - sport and recreation,TRUE
+Tourism kwazulu natal,Kwazulu natal - tourism,FALSE
+Tourism kwazulu-natal,Kwazulu natal - tourism,FALSE
+Kwazulu-natal tourism authority,Kwazulu natal - tourism,FALSE
+Kwa-zulu natal - trade and investment kwazulu-natal,Kwazulu natal - trade and investment,FALSE
+Kwazulu natal - transport,Kwazulu natal - transport,TRUE
+Kwazulu natal museum,Kwazulu natal museum,TRUE
+Kwazulu-natal-social development,Kwazulu natal - social development,FALSE
+Kzn amafa and research institute,Kwazulu natal amafa and research institute,FALSE
+Laingsburg municipality,Laingsburg municipality,TRUE
+Land and agricultural development bank of south africa,Land and agricultural development bank of south africa,TRUE
+Langeberg municipality,Langeberg municipality,TRUE
+Legal aid sa,Legal aid south africa,FALSE
+Legal aid south africa,Legal aid south africa,TRUE
+Lejweleputswa district municipality,Lejweleputswa district municipality,TRUE
+Lekwa local municipality,Lekwa local municipality,TRUE
+Lepelle nkumpi municipality,Lepelle nkumpi municipality,TRUE
+Leplle northen water,Leplle northen water,TRUE
+Lesedi local municipality,Lesedi local municipality,TRUE
+Letsemeng local municipality,Letsemeng local municipality,TRUE
+Limpopo - agriculture,Limpopo - agriculture,TRUE
+Limpopo - economic development environment & tourism,Limpopo - economic development environment & tourism,TRUE
+Limpopo - education,Limpopo - education,TRUE
+Limpopo department of education,Limpopo - education,FALSE
+Limpopo - limpopo gambling board,Limpopo - gambling board,FALSE
+Limpopo gambling board,Limpopo - gambling board,FALSE
+Limpopo - gateway airport authority limited,Limpopo - gateway airport authority limited,TRUE
+Department of health limpopo province,Limpopo - health,FALSE
+Limpopo - health,Limpopo - health,TRUE
+Limpopo - local government and housing,Limpopo - local government and housing,TRUE
+Limpopo - office of the premier,Limpopo - office of the premier,TRUE
+Office of the premier limpopo,Limpopo - office of the premier,FALSE
+Limpopo - provincial treasury,Limpopo - provincial treasury,TRUE
+Limpopo provincial treasury,Limpopo - provincial treasury,FALSE
+Limpopo - public works,Limpopo - public works,TRUE
+Roads agency limpopo,Limpopo - roads agency,FALSE
+Limpopo - limpopo roads agency,Limpopo - roads agency,FALSE
+Limpopo - roads and transport,Limpopo - roads and transport,TRUE
+Limpopo - social development,Limpopo - social development,TRUE
+Limpopo - sport arts and culture,Limpopo - sport arts and culture,TRUE
+Limpopo tourism agency,Limpopo - tourism agency,FALSE
+Limpopo - limpopo tourism and parks board,Limpopo - tourism and parks board,FALSE
+Limpopo-limpopo economic development agency,Limpopo - economic development agency,FALSE
+Local government education and training authority,Local government education and training authority,TRUE
+Luthuli museum,Luthuli museum,TRUE
+Mafube local municipality,Mafube local municipality,TRUE
+Magalies water,Magalies water,TRUE
+Makana local municipality,Makana local municipality,TRUE
+Makhado local municipality,Makhado local municipality,TRUE
+Makhuduthamaga local municipality,Makhuduthamaga local municipality,TRUE
+Mandela bay development agency,Mandela bay development agency,TRUE
+Maphumulo local municipality,Maphumulo local municipality,TRUE
+Market theatre foundation,Market theatre foundation,TRUE
+Masilonyana local municipality,Masilonyana local municipality,TRUE
+Matjhabeng local municipality,Matjhabeng local municipality,TRUE
+Matzikama municipality,Matzikama municipality,TRUE
+Mbhashe local municipality,Mbhashe local municipality,TRUE
+Media information and communication technologies sector education and training authority,Media information and communication technologies sector education and training authority,TRUE
+Medical research council of south africa,Medical research council of south africa,TRUE
+Merafong local municipality,Merafong local municipality,TRUE
+Merseta,Merseta,TRUE
+Metsimaholo local municipality,Metsimaholo local municipality,TRUE
+Mhlontlo local municipality,Mhlontlo local municipality,TRUE
+Midvaal local municipality,Midvaal local municipality,TRUE
+Mineral resources and energy,Mineral resources and energy,TRUE
+Mkhondo local municipality,Mkhondo local municipality,TRUE
+Modimolle-mookgophong local municipality,Modimolle-mookgophong local municipality,TRUE
+Mogalakwena local municipality,Mogalakwena local municipality,TRUE
+Mogale city local municipality,Mogale city local municipality,TRUE
+Mohokare local municipality,Mohokare local municipality,TRUE
+Molemole municipality,Molemole municipality,TRUE
+Moqhaka local municipality,Moqhaka local municipality,TRUE
+Moses kotane institute,Moses kotane institute,TRUE
+Mossel bay municipality,Mossel bay municipality,TRUE
+Mpumalanga - community safety security and liaison,Mpumalanga - community safety security and liaison,TRUE
+Mpumalanga - cooperative governance and traditional affairs,Mpumalanga - cooperative governance and traditional affairs,TRUE
+Mpumalanga - culture sport and recreation,Mpumalanga - culture sport and recreation,TRUE
+Mpumalanga - agriculture rural development and land administration,"Mpumalanga - agriculture, rural development, land and environmental affairs",FALSE
+"Mpumalanga - department of agriculture, rural development, land and environmental affairs","Mpumalanga - agriculture, rural development, land and environmental affairs",FALSE
+"Mpumalanga - department of economic development, tourism and environmental affairs",Mpumalanga - economic development environment and tourism,FALSE
+Mpumalanga - economic development environment and tourism,Mpumalanga - economic development environment and tourism,TRUE
+Mpumalanga - mpumalanga economic growth agency (mega),Mpumalanga - economic growth agency (mega),FALSE
+Mpumalanga economic growth agency,Mpumalanga - economic growth agency (mega),FALSE
+Mpupalanga - mpumalanga economic growth agency,Mpumalanga - economic growth agency (mega),FALSE
+Mpumalanga regional training trust,Mpumalanga - regional training trust,FALSE
+Mpumalanga - regional training trust,Mpumalanga - regional training trust,TRUE
+Mpumalanga economic regulator,Mpumalanga - economic regulator,FALSE
+Mpumalanga - education,Mpumalanga - education,TRUE
+Mpumalanga - finance,Mpumalanga - finance,TRUE
+Mpumalanga - health,Mpumalanga - health,TRUE
+Mpumalanga - human settlements,Mpumalanga - human settlements,TRUE
+Mpumalanga - office of the premier,Mpumalanga - office of the premier,TRUE
+Mpumalanga - provincial treasury,Mpumalanga - provincial treasury,TRUE
+Mpumalanga provincial treasury,Mpumalanga - provincial treasury,FALSE
+Mpumalanga - public works roads and transport,Mpumalanga - public works roads and transport,TRUE
+Mpumalanga department of social development,Mpumalanga - social development,FALSE
+Mpumalanga - mpumalanga gambling board (mgb),Mpumalanga - gambling board,FALSE
+Mpumalanga - mpumalanga tourism  and parks agency (mtpa),Mpumalanga - tourism and parks agency (mtpa),FALSE
+Mpumalanga - mpumalanga tourism and parks agency (mtpa),Mpumalanga - tourism and parks agency (mtpa),FALSE
+Mpumalanga - mpumalanga tourism and parks board,Mpumalanga - tourism and parks agency (mtpa),FALSE
+Mpupalanga - mpumalanga agricultural development corporation,Mpupalanga - agricultural development corporation,FALSE
+Msukaligwa local municipality,Msukaligwa local municipality,TRUE
+Msunduzi museum,Msunduzi museum,TRUE
+Mthonjaneni local municipality,Mthonjaneni local municipality,TRUE
+Musina local municipality,Musina local municipality,TRUE
+Nala,Nala,TRUE
+Namakwa district municipality,Namakwa district municipality,TRUE
+Nelson mandela bay municipality,Nelson mandela bay municipality,TRUE
+National agricultural makerting council,National agricultural makerting council,TRUE
+Nelson mandela museum,Nelson mandela museum,TRUE
+Ngqushwa local municipality,Ngqushwa local municipality,TRUE
+Ngwathe local municipality,Ngwathe local municipality,TRUE
+Nkangala district municipality,Nkangala district municipality,TRUE
+Nketoana local municipality,Nketoana local municipality,TRUE
+North west - department of  agriculture and rural development,North west - agriculture and rural development,FALSE
+North west - department of  rural environment and agriculture development,North west - rural environment and agriculture development,FALSE
+North west - department of agriculture and rural development,North west - agriculture and rural development,FALSE
+North west - department of community safety and transport management,North west - community safety and transport management,FALSE
+North west - department of culture arts and traditional affairs,North west - culture arts and traditional affairs,FALSE
+North west - north west development corporation (pty) ltd,North west - development corporation,FALSE
+North west development corporation,North west - development corporation,FALSE
+North west - department of economy and enterprise development,North west - economy and enterprise development,FALSE
+North west - department of education and sport development,North west - education and sport development,FALSE
+North west - department of finance,North west - finance,FALSE
+North west - north west gambling board,North west - gambling board,FALSE
+North west - department of health,North west - health,FALSE
+North west - north west housing corporation,North west - housing corporation,FALSE
+North west housing corporation,North west - housing corporation,FALSE
+North west - department of human settlements,North west - human settlements,FALSE
+North west - mmabana sports and culture,North west - mmabana sports and culture,TRUE
+North west - office of the premier,North west - office of the premier,TRUE
+North west - north west parks and tourism board,North west - parks and tourism board,FALSE
+North west parks board,North west - parks and tourism board,FALSE
+North west tourism board,North west - parks and tourism board,FALSE
+North west - department of public works and roads,North west - public works and roads,FALSE
+North west - department of rural environment and agriculture development,North west - rural environment and agriculture development,FALSE
+North west - department of social development,North west - social development,FALSE
+Northern cape - agriculture and land reform,Northern cape - agriculture and land reform,TRUE
+Northern cape - cooperative governance human settlement and traditional affairs,Northern cape - cooperative governance human settlement and traditional affairs,TRUE
+Northern cape - economic development and tourism,Northern cape - economic development and tourism,TRUE
+Northern cape department of education,Northern cape - education,FALSE
+Northern cape - education,Northern cape - education,TRUE
+Northern cape - environmental affairs and nature conservation,Northern cape - environmental affairs and nature conservation,TRUE
+Northern cape - health,Northern cape - health,TRUE
+Northern cape - northern cape liquor board,Northern cape - liquor board,FALSE
+Northern cape liquor board,Northern cape - liquor board,FALSE
+Northern cape provincial treasury,Northern cape - provincial treasury,FALSE
+Northern cape - roads and public works,Northern cape - roads and public works,TRUE
+Northern cape - social development,Northern cape - social development,TRUE
+Northern cape - sport arts and culture,Northern cape - sport arts and culture,TRUE
+Office of health standards compliance,Office of health standards compliance,TRUE
+Office of health standards compliance (ohsc),Office of health standards compliance,FALSE
+Office of the chief justice,Office of the chief justice,TRUE
+Office of the ombud for financial service providers,Office of the ombud for financial service providers,TRUE
+Office of the pension funds adjudicator,Office of the pension funds adjudicator,TRUE
+Office of the premeir,Office of the premier,FALSE
+Office of the premier,Office of the premier,TRUE
+Okhahlamba local municipality,Okhahlamba local municipality,TRUE
+Or tambo district municipality,Or tambo district municipality,TRUE
+Oudtshoorn municipality,Oudtshoorn municipality,TRUE
+Overberg district municipality,Overberg district municipality,TRUE
+Overstrand municipality,Overstrand municipality,TRUE
+Pan south african language board (pansalb),Pan south african language board (pansalb),TRUE
+Passenger rail agency of south africa,Passenger rail agency of south africa,TRUE
+Perishable products export control board,Perishable products export control board,TRUE
+Petroleum agency sa,Petroleum agency sa,TRUE
+Petrosa,Petrosa,TRUE
+Phumelela local municipality,Phumelela local municipality,TRUE
+Polokwane municipality,Polokwane municipality,TRUE
+Port st johns local municipality,Port st johns local municipality,TRUE
+Ports regulator of south africa,Ports regulator of south africa,TRUE
+Prince albert municipality,Prince albert municipality,TRUE
+Private security industry regulatory authority,Private security industry regulatory authority,TRUE
+Public investment corporation,Public investment corporation,TRUE
+Public service commission,Public service commission,TRUE
+Public works,Public works,TRUE
+Railway safety regulator,Railway safety regulator,TRUE
+Rand water,Rand water,TRUE
+Rand west local municipality,Rand west local municipality,TRUE
+Ratlou local municipality,Ratlou local municipality,TRUE
+Richards bay industrial development zone,Richards bay industrial development zone,TRUE
+Road traffic management corporation,Road traffic management corporation,TRUE
+Robben island museum,Robben island museum,TRUE
+Sa police service,Sa police service,TRUE
+Safety and security education and training authority,Safety and security education and training authority,TRUE
+Sakhisizwe local municipality,Sakhisizwe local municipality,TRUE
+Saldanha bay municipality,Saldanha bay municipality,TRUE
+Sarah baartman district municipality,Sarah baartman district municipality,TRUE
+Sasria limited,Sasria limited,TRUE
+Sasria soc ltd,Sasria limited,FALSE
+Sedibeng district municipality,Sedibeng district municipality,TRUE
+Sedibeng water,Sedibeng water,TRUE
+Sekhukhune district municipality,Sekhukhune district municipality,TRUE
+Senqu local municipality,Senqu local municipality,TRUE
+Services sector education and training authority,Services sector education and training authority,TRUE
+Small business development,Small business development,TRUE
+Small enteprise development agency (seda),Small enteprise development agency (seda),TRUE
+Small enterprise development agency,Small enteprise development agency (seda),FALSE
+Social housing regulatory authority,Social housing regulatory authority,TRUE
+South african airways (pty) limited,South african airways (pty) limited,TRUE
+South african broadcasting corporation limited,South african broadcasting corporation limited,TRUE
+South African Forestry Company,South African Forestry Company,TRUE
+South african heritage resources agency,South african heritage resources agency,TRUE
+South african library for the blind,South african library for the blind,TRUE
+South african local government association,South african local government association,TRUE
+South african national biodiversity institute,South african national biodiversity institute,TRUE
+South african national park,South african national parks,FALSE
+South african national parks,South african national parks,TRUE
+sansa,South african national space agency,FALSE
+South african national space agency,South african national space agency,TRUE
+South african national space agency (sansa),South african national space agency,FALSE
+South african revenue service,South african revenue services,FALSE
+South african revenue services,South african revenue services,TRUE
+South african social security agency,South african social security agency,TRUE
+Sassa,South african social security agency,FALSE
+Special investigation unit,Special investigation unit,TRUE
+"Sport, arts and culture","Sport, arts and culture",TRUE
+State diamond trader,State diamond trader,TRUE
+State information technology agency,State information technology agency,TRUE
+State security agency,State security agency,TRUE
+Statistics south africa,Statistics south africa,TRUE
+Stellenbosch municipality,Stellenbosch municipality,TRUE
+Swartland municipality,Swartland municipality,TRUE
+Swellendam municipality,Swellendam municipality,TRUE
+Technology innovation agency,Technology innovation agency,TRUE
+Thaba chweu local municipality,Thaba chweu local municipality,TRUE
+Lgseta,The Local Government Sector Education and Training Authority (Lgseta),FALSE
+The market theatre foundation,The market theatre foundation,TRUE
+The playhouse company,The playhouse company,TRUE
+The presidency,The presidency,TRUE
+The richards bay industrial development zone,The richards bay industrial development zone,TRUE
+The south african institute for drug-free sport,The south african institute for drug-free sport,TRUE
+The south african national roads agency limited,The south african national roads agency limited,TRUE
+The south african state theatre,The south african state theatre,TRUE
+Theewaterkloof municipality,Theewaterskloof municipality,FALSE
+Theewaterskloof municipality,Theewaterskloof municipality,TRUE
+Thembisile hani local municipality,Thembisile hani local municipality,TRUE
+Thulamela municipality,Thulamela municipality,TRUE
+Tokologo local municipality,Tokologo local municipality,TRUE
+Trade & industry,Trade & industry,TRUE
+Trans-caledon tunnel authority,Trans-caledon tunnel authority,TRUE
+Transnet soc ltd,Transnet soc ltd,TRUE
+Transport,Transport,TRUE
+Transport education and training authority,Transport education and training authority,TRUE
+Umdoni local municipality,Umdoni local municipality,TRUE
+Umgeni water,Umgeni water,TRUE
+Umsunduzi museum,Umsunduzi museum,TRUE
+Umuziwabantu local municipality,Umuziwabantu local municipality,TRUE
+Umzimkhulu municipality,Umzimkhulu municipality,TRUE
+Umzimvubu  local  municipality,Umzimvubu local municipality,FALSE
+Umzimvubu local municipality,Umzimvubu local municipality,TRUE
+Unemployment insurance fund,Unemployment insurance fund,TRUE
+Vhembe district municipality,Vhembe district municipality,TRUE
+Victor khanye local municipality,Victor khanye local municipality,TRUE
+Walter sisulu local municipality,Walter sisulu local municipality,TRUE
+War museum of the boer republics,War museum of the boer republics,TRUE
+Water research commission,Water research commission,TRUE
+Waterberg district municipality,Waterberg district municipality,TRUE
+Wc public entities,Wc public entities,TRUE
+West coast district municipality,West coast district municipality,TRUE
+West rand district municipality,West rand district municipality,TRUE
+Western cape - agriculture,Western cape - agriculture,TRUE
+Western cape - casidra (pty) ltd,Western cape - casidra,FALSE
+Western cape - casidra (soc) ltd,Western cape - casidra,FALSE
+Western cape - community safety,Western cape - community safety,TRUE
+Western cape - cultural affairs and sport,Western cape - cultural affairs and sport,TRUE
+Western cape - economic development and tourism,Western cape - economic development and tourism,TRUE
+Western cape - education,Western cape - education,TRUE
+Western cape - environmental affairs and development,Western cape - environmental affairs and development,TRUE
+Western cape - western cape gambling and racing board,Western cape - gambling and racing board,FALSE
+Western cape - health,Western cape - health,TRUE
+Western cape - human settlements,Western cape - human settlements,TRUE
+Western cape - western cape investments and trade promotion agency,Western cape - investments and trade promotion agency,FALSE
+Western cape - western cape liquor board,Western cape - liquor board,FALSE
+Western cape - local government,Western cape - local government,TRUE
+Western cape - western cape nature conservation board,Western cape - nature conservation board,FALSE
+Western cape - office of the premier,Western cape - office of the premier,TRUE
+Western cape - provincial treasury,Western cape - provincial treasury,TRUE
+Western cape - social development,Western cape - social development,TRUE
+Western cape - transport and public works,Western cape - transport and public works,TRUE
+William humphreys art gallery,William humphreys art gallery,TRUE
+Witzenberg local municipality,Witzenberg municipality,FALSE
+Witzenberg municipality,Witzenberg municipality,TRUE
+Xhariep district municipality,Xhariep district municipality,TRUE
+Education.,Gauteng - education,FALSE

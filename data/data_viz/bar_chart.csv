@@ -1,0 +1,105 @@
+,category,Cleaned_name,item_sum,pay_num,order_num,percent,category_short
+23,Other,Department of health,5776042799,3594066219,2463921114.51,0.6222367707563103,Other
+25,Other,Other_departments,5776042799,1330738580,1616761421.8500001,0.23038932125475062,Other
+22,Other,All wcg departments,5776042799,433564912,650150061.52,0.07506262108637121,Other
+24,Other,Mpumalanga - health,5776042799,410996796,1070856232.34,0.07115542773872026,Other
+1,0,Gauteng - health,2542554102,1951247890,128572839.89,0.7674361337936242,Category 0
+3,0,Public works,2542554102,213919718,214804828.44,0.08413575853970166,Category 0
+2,0,Other_departments,2542554102,202291609,196266702.15,0.07956236165864682,Category 0
+0,0,Department of social development,2542554102,175094885,175876189.4,0.06886574600802732,Category 0
+15,Infrastructure,Gauteng - health,2309070248,886098867,3526869902.02,0.38374703747861033,Infrastructure
+16,Infrastructure,Gauteng - infrastructure development,2309070248,573370722,6641458242.3,0.24831237702561226,Infrastructure
+18,Infrastructure,Other_departments,2309070248,433486184,1704987504.54,0.18773191693733174,Infrastructure
+17,Infrastructure,Kwazulu natal - health,2309070248,415360334,1259631487.54,0.1798820691400637,Infrastructure
+36,PPE001 Surgical masks for patients,Sa police service,1646042983,878509003,878509003.69,0.5337096370344298, Surgical masks for patients
+34,PPE001 Surgical masks for patients,Defence,1646042983,523563121,732178520.8,0.318073784468118, Surgical masks for patients
+35,PPE001 Surgical masks for patients,Other_departments,1646042983,185425673,194335379.27,0.11264935054250647, Surgical masks for patients
+33,PPE001 Surgical masks for patients,All wcg departments,1646042983,57056457,57317676.44,0.034662798960457035, Surgical masks for patients
+58,PPE020 Hand sanitisers and disinfectants,Sa police service,1202799159,500918564,500918564.4,0.4164606869333536, Hand sanitisers and disinfectants
+57,PPE020 Hand sanitisers and disinfectants,Other_departments,1202799159,409027813,2264007893.83,0.34006326820186944, Hand sanitisers and disinfectants
+56,PPE020 Hand sanitisers and disinfectants,Kwazulu natal - education,1202799159,176483500,290805232.0,0.1467273224124361, Hand sanitisers and disinfectants
+55,PPE020 Hand sanitisers and disinfectants,All wcg departments,1202799159,116172282,164227231.12,0.09658493783499561, Hand sanitisers and disinfectants
+59,PPE021 Sanitising of buildings,Gauteng - education,547989962,386658724,299270943.83,0.7055945378795095, Sanitising of buildings
+61,PPE021 Sanitising of buildings,Other_departments,547989962,122296732,282985731.13,0.2231733069592249, Sanitising of buildings
+60,PPE021 Sanitising of buildings,Mpumalanga - health,547989962,24240399,694759488.1800001,0.04423511502205217, Sanitising of buildings
+62,PPE021 Sanitising of buildings,Western cape - health,547989962,14539204,14507600.7,0.026531880158782908, Sanitising of buildings
+30,PPE000 Other PPEs,Other_departments,509633763,266168681,342616166.89,0.5222744259194617, Other PPEs
+29,PPE000 Other PPEs,Johannesburg social housing company (joshco),509633763,143033620,480530025.45,0.28065962340882034, Other PPEs
+31,PPE000 Other PPEs,Sa police service,509633763,51169810,51303712.7,0.10040506284117601, Other PPEs
+32,PPE000 Other PPEs,Western cape - health,509633763,49199524,48714378.51,0.09653898067973962, Other PPEs
+100,"respirator masks (FFP2, N95)",Gauteng - health,494812500,412279310,628481853.6,0.8332031021851711,"respirator masks (FFP2, N95)"
+103,"respirator masks (FFP2, N95)",Other_departments,494812500,32936176,66419665.7,0.06656294252873564,"respirator masks (FFP2, N95)"
+102,"respirator masks (FFP2, N95)",Mpumalanga - health,494812500,25821459,31613020.81,0.052184330428192496,"respirator masks (FFP2, N95)"
+101,"respirator masks (FFP2, N95)",Kwazulu natal - health,494812500,23647555,41832424.47,0.04779094101300998,"respirator masks (FFP2, N95)"
+39,PPE002 Surgical masks for health care workers,Other_departments,419741242,181128388,202091065.04,0.4315239244467667, Surgical masks for health care workers
+37,PPE002 Surgical masks for health care workers,All wcg departments,419741242,86758400,80147791.28,0.20669496184508837, Surgical masks for health care workers
+40,PPE002 Surgical masks for health care workers,Western cape - health,419741242,77968185,61204474.04,0.18575297635394142, Surgical masks for health care workers
+38,PPE002 Surgical masks for health care workers,Mpumalanga - health,419741242,73886269,116869123.88,0.17602813735420356, Surgical masks for health care workers
+95,gloves,Other_departments,412359569,180526434,368174397.48,0.4377888803157615,gloves
+96,gloves,Western cape - health,412359569,106030604,101279547.5,0.25713142599584005,gloves
+94,gloves,Defence,412359569,73984235,78788714.5,0.17941680165060023,gloves
+93,gloves,All wcg departments,412359569,48078224,91071268.63,0.11659296307005307,gloves
+97,gown,Gauteng - health,325121433,219317338,557043927.4,0.6745705319279889,gown
+98,gown,Other_departments,325121433,78634669,173965485.9,0.24186245820342456,gown
+99,gown,Western cape - health,325121433,27169426,24005025.03,0.08356700986858655,gown
+89,cloth masks,Other_departments,293646803,127469479,129069876.48,0.43409115201570914,cloth masks
+88,cloth masks,Kwazulu natal - education,293646803,68476707,230682096.68,0.23319411721979483,cloth masks
+86,cloth masks,All wcg departments,293646803,55175127,55201346.55,0.18789622919885832,cloth masks
+87,cloth masks,Basic education,293646803,42060660,42060660.0,0.14323554545901185,cloth masks
+10,Food parcels,Other_departments,276190720,145261977,177024675.72,0.5259480731285975,Food parcels
+9,Food parcels,Eastern cape - south african social security agency,276190720,91061774,91061775.36,0.3297061320525179,Food parcels
+8,Food parcels,Department of social development,276190720,39866969,40192380.17,0.14434579481888457,Food parcels
+20,Non-PPE Covid related items,Department of health,208257958,119171621,175374837.47,0.5722308148243728,Non-PPE Covid related items
+21,Non-PPE Covid related items,Other_departments,208257958,37209481,50688922.510000005,0.1786701519468466,Non-PPE Covid related items
+19,Non-PPE Covid related items,Basic education,208257958,35348679,72849110.58,0.16973506961976453,Non-PPE Covid related items
+71,Thermometer,Other_departments,184909012,82944244,94822653.86,0.4485678826730197,Thermometer
+69,Thermometer,Kwazulu natal - education,184909012,74564325,76188819.99,0.4032487340314165,Thermometer
+72,Thermometer,Sa police service,184909012,14175000,14175000.0,0.07665932474940702,Thermometer
+70,Thermometer,Kwazulu natal - health,184909012,13179000,14987700.0,0.07127289177230584,Thermometer
+49,PPE012 Multi purpose sanitisers and disinfectants,Kwazulu natal - education,168328594,68075894,67974800.0,0.40442263778428517, Multi purpose sanitisers and disinfectants
+48,PPE012 Multi purpose sanitisers and disinfectants,All wcg departments,168328594,40653867,200003852.55,0.24151492051314824, Multi purpose sanitisers and disinfectants
+51,PPE012 Multi purpose sanitisers and disinfectants,Western cape - education,168328594,33841401,17610660.74,0.20104368601807487, Multi purpose sanitisers and disinfectants
+50,PPE012 Multi purpose sanitisers and disinfectants,Other_departments,168328594,25757432,27159795.03,0.15301875568449172, Multi purpose sanitisers and disinfectants
+73,Uncategorized masks,Gauteng - health,147960728,135042804,842860144.8,0.91269356284865,Uncategorized masks
+75,Uncategorized masks,Other_departments,147960728,9794763,45355179.47,0.06619839691515982,Uncategorized masks
+74,Uncategorized masks,Justice & constitutional development,147960728,3123161,3123156.53,0.021108040236190243,Uncategorized masks
+47,PPE009 Protective coveralls,Other_departments,124754594,51128005,66584214.45,0.40982863524849433, Protective coveralls
+44,PPE009 Protective coveralls,All wcg departments,124754594,31147150,5638008.1,0.24966735894311035, Protective coveralls
+46,PPE009 Protective coveralls,Mpumalanga - health,124754594,26548189,50271996.519999996,0.21280329764850184, Protective coveralls
+45,PPE009 Protective coveralls,Ethekwini municipality,124754594,15931250,18754650.0,0.12770070815989348, Protective coveralls
+53,PPE019 Surface sanitizers and disinfectants,Other_departments,96009447,53508206,61571925.18000001,0.5573223018355683, Surface sanitizers and disinfectants
+54,PPE019 Surface sanitizers and disinfectants,Sa police service,96009447,35516140,35516140.0,0.3699233888931784, Surface sanitizers and disinfectants
+52,PPE019 Surface sanitizers and disinfectants,Ethekwini municipality,96009447,6985101,34095912.36,0.07275430927125327, Surface sanitizers and disinfectants
+82,Visor / Face Shield,Other_departments,82657795,39411733,38493742.65,0.47680600480571733,Visor / Face Shield
+80,Visor / Face Shield,Kwazulu natal - education,82657795,25464308,26000322.3,0.3080690453937224,Visor / Face Shield
+81,Visor / Face Shield,Mpumalanga - health,82657795,8995504,11962019.4,0.10882825993604112,Visor / Face Shield
+79,Visor / Face Shield,Gauteng - health,82657795,8786250,400750.0,0.10629668986451914,Visor / Face Shield
+65,Renovation,Gauteng - health,80309529,80309529,0.0,1.0,Renovation
+90,dispenser,Kwazulu natal - education,54772414,40314946,68264911.0,0.7360447176931073,dispenser
+91,dispenser,Other_departments,54772414,13563150,18079425.91,0.24762739140911336,dispenser
+92,dispenser,Public works,54772414,894318,1647552.4,0.01632789089777931,dispenser
+11,Human resources-services,Kwazulu natal - public works (head office),41241842,24462673,24462673.09,0.5931518044223146,Human resources-services
+14,Human resources-services,Western cape - health,41241842,8343568,7892740.4,0.20230832560776504,Human resources-services
+12,Human resources-services,Other_departments,41241842,6731986,10631522.0,0.1632319429379512,Human resources-services
+13,Human resources-services,Public works,41241842,1703615,2584127.55,0.04130792703196914,Human resources-services
+68,Telecommunication,Other_departments,36939399,20220029,38226252.839999996,0.5473838109818734,Telecommunication
+67,Telecommunication,Mpumalanga - health,36939399,10832876,10832875.530000001,0.2932607539175177,Telecommunication
+66,Telecommunication,Department of health,36939399,5886494,5891563.06,0.15935543510060898,Telecommunication
+76,Uncategorized sanitisers,Defence,35686845,19315404,19315404.03,0.5412471738535587,Uncategorized sanitisers
+78,Uncategorized sanitisers,Other_departments,35686845,9895738,10373251.27,0.2772937198567147,Uncategorized sanitisers
+77,Uncategorized sanitisers,Justice & constitutional development,35686845,6000646,6000638.83,0.1681472822828692,Uncategorized sanitisers
+85,cleaning services,Public works,32474969,25814543,26305167.64,0.7949058550294537,cleaning services
+83,cleaning services,Justice & constitutional development,32474969,4259470,4259459.66,0.13116163405729503,cleaning services
+84,cleaning services,Other_departments,32474969,2400956,5355927.3100000005,0.07393251091325137,cleaning services
+27,Other fumigation/disinfecting/decontamination/sanitizing/fogging/deep cleaning,Other_departments,31327277,19552323,26982262.909999996,0.6241309450546882,other fumigation/disinfecting/sanitizing
+26,Other fumigation/disinfecting/decontamination/sanitizing/fogging/deep cleaning,Justice & constitutional development,31327277,5907002,5906973.17,0.18855778623849115,other fumigation/disinfecting/sanitizing
+28,Other fumigation/disinfecting/decontamination/sanitizing/fogging/deep cleaning,Public works,31327277,5867952,6127702.91,0.18731126870682058,other fumigation/disinfecting/sanitizing
+64,PPE025 Sanitising spray bottles,Other_departments,30858988,22530628,43622491.74,0.730115582533037, Sanitising spray bottles
+63,PPE025 Sanitising spray bottles,Kwazulu natal - education,30858988,8328360,10038651.5,0.26988441746696296, Sanitising spray bottles
+42,PPE005 Eye protection - Goggles,Other_departments,30087213,12249713,9078061.69,0.40714016947997145, Eye protection - Goggles
+41,PPE005 Eye protection - Goggles,Dbsa,30087213,11600000,1157156.25,0.385545846336781, Eye protection - Goggles
+43,PPE005 Eye protection - Goggles,Sa police service,30087213,6237500,6321080.0,0.20731398418324753, Eye protection - Goggles
+6,Apron,Other_departments,22579597,10019209,13623934.37,0.4437284243824192,Apron
+5,Apron,Kwazulu natal - education,22579597,9028000,9472000.0,0.39982998810829085,Apron
+7,Apron,Western cape - health,22579597,1791058,1791057.5,0.079321964869435,Apron
+4,Apron,All wcg departments,22579597,1741330,613868.72,0.0771196226398549,Apron
